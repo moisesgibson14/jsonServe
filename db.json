@@ -2,7 +2,7 @@
   "quotation":[
     {
         "id":1,
-        prices:  [
+        "prices":  [
             {
                "id": 7,
                "title": "Básico",
@@ -10,9 +10,9 @@
                   "1": "149.00",
                   "2": "447.00",
                },
-               'color': '#009dd6',
-               'mainDescription': '$408.00*',
-               'secondaryDescription': 'MXN / Mensual',
+               "color": "#009dd6",
+               "mainDescription": "$408.00*",
+               "secondaryDescription": "MXN / Mensual",
             },
             {
                "id": 8,
@@ -21,9 +21,9 @@
                   "1": "168.00",
                   "2": "504.00",
                },
-               "color": '#138468',
-               "mainDescription": '$408.00*',
-               "secondaryDescription": 'MXN / Mensual',
+               "color": "#138468",
+               "mainDescription": "$408.00*",
+               "secondaryDescription": "MXN / Mensual",
          
             },
             {
@@ -34,13 +34,13 @@
                   "2": "573.00",
          
                },
-               "color": '#f2609e',
-               "mainDescription": '$408.00*',
-               "secondaryDescription": 'MXN / Mensual',
+               "color": "#f2609e",
+               "mainDescription": "$408.00*",
+               "secondaryDescription": "MXN / Mensual",
          
             }
          ],
-         coverages: [
+         "coverages": [
             {
               "id": 16,
               "description": "Hospitalización",
@@ -79,7 +79,7 @@
               ]
             }
           ],
-          accompaniments: [
+          "accompaniments": [
             {
               "id": 16,
               "description": "Hospitalización",
