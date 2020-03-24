@@ -1,126 +1,88 @@
 {
-    "quotation":[
+  "quotation": [
+    {
+      "folio": 221,
+      "quotation_key": "KNTGY6LYPI4XCUTQPIYE2S2FNZTUW3LMK5MVM2KXJVZDQTCFIJYXIMKLOFWEYK2SIRTT2%3D%3D%3D",
+      "coverages": [
         {
-  "folio": 221,
-  "quotation_key": "KNTGY6LYPI4XCUTQPIYE2S2FNZTUW3LMK5MVM2KXJVZDQTCFIJYXIMKLOFWEYK2SIRTT2%3D%3D%3D",
-  "coverages": [
-    {
-      "id": 27,
-      "description": "Hospitalización",
-      "detail": [
-        "Se pagará la suma asegurada si el Asegurado."
+          "id": 27,
+          "description": "Hospitalización",
+          "detail": [
+            "Se pagará la suma asegurada si el Asegurado."
+          ],
+          "restriction": [
+            "Esta cobertura no cubre Hospitalización derivada de: "
+          ],
+          "protection": [
+            "$40,000",
+            "$30,000",
+            "$20,000"
+          ]
+        }
       ],
-      "restriction": [
-        "Esta cobertura no cubre Hospitalización derivada de: "
+      "prices": [
+        {
+          "id": 13,
+          "title": "Básico",
+          "prices": {
+            "1": "261.00",
+            "2": "783.00",
+            "3": "1566.00",
+            "4": "3132.00"
+          },
+          "secondaryDescription": {
+            "1": "MXN/Mensual",
+            "2": "MXN/Trimestral",
+            "3": "MXN/Semestral",
+            "4": "MXN/Anual"
+          }
+        },
+        {
+          "id": 14,
+          "title": "Preferente",
+          "prices": {
+            "1": "368.00",
+            "2": "1104.00",
+            "3": "2208.00",
+            "4": "4416.00"
+          },
+          "secondaryDescription": {
+            "1": "MXN/Mensual",
+            "2": "MXN/Trimestral",
+            "3": "MXN/Semestral",
+            "4": "MXN/Anual"
+          }
+        },
+        {
+          "id": 15,
+          "title": "Premier",
+          "prices": {
+            "1": "647.00",
+            "2": "1941.00",
+            "3": "3882.00",
+            "4": "7764.00"
+          },
+          "secondaryDescription": {
+            "1": "MXN/Mensual",
+            "2": "MXN/Trimestral",
+            "3": "MXN/Semestral",
+            "4": "MXN/Anual"
+          }
+        }
       ],
-      "protection": [
-        "$40,000",
-        "$30,000",
-        "$20,000"
-      ]
-    },
-    {
-      "id": 28,
-      "description": "Cirugía",
-      "detail": [
-        "Se pagará si a consecuencia de "
-      ],
-      "restriction": [
-        "Intervenciones quirúrgicas "
-      ],
-      "protection": [
-        "$2,0000",
-        "$15,000",
-        "$10,000"
-      ]
-    }
-  ],
-  "prices": [
-    {
-      "id": 13,
-      "title": "Básico",
-      "prices": {
-        "1": "261.00",
-        "2": "783.00",
-        "3": "1566.00",
-        "4": "3132.00"
-      },
-      "secondaryDescription": {
-        "1": "MXN/Mensual",
-        "2": "MXN/Trimestral",
-        "3": "MXN/Semestral",
-        "4": "MXN/Anual"
-      }
-    },
-    {
-      "id": 14,
-      "title": "Preferente",
-      "prices": {
-        "1": "368.00",
-        "2": "1104.00",
-        "3": "2208.00",
-        "4": "4416.00"
-      },
-      "secondaryDescription": {
-        "1": "MXN/Mensual",
-        "2": "MXN/Trimestral",
-        "3": "MXN/Semestral",
-        "4": "MXN/Anual"
-      }
-    },
-    {
-      "id": 15,
-      "title": "Premier",
-      "prices": {
-        "1": "647.00",
-        "2": "1941.00",
-        "3": "3882.00",
-        "4": "7764.00"
-      },
-      "secondaryDescription": {
-        "1": "MXN/Mensual",
-        "2": "MXN/Trimestral",
-        "3": "MXN/Semestral",
-        "4": "MXN/Anual"
-      }
-    }
-  ],
-  "accompaniments": [
-    {
-      "id": 1,
-      "description": "Orientación médica de prevención telefónica",
-      "detail": [
-        "Se otorgará: ."
-      ],
-      "restriction": [],
-      "protection": [
-        "amparado",
-        "Aplica",
-        "Aplica"
-      ]
-    },
-    {
-      "id": 2,
-      "description": "Costos preferenciales en servicios médicos",
-      "detail": [
-        "Descuentos a través de la red médica y hospitalaria en: Médicos Especialistas, Hospitales y Laboratorios por ubicación geográfica."
-      ],
-      "restriction": [],
-      "protection": [
-        "costos preferenciales ",
-        "costos preferenciales ",
-        "Costos preferenciales"
+      "accompaniments": [
+        {
+          "id": 1,
+          "description": "Orientación médica de prevención telefónica",
+          "detail": [
+            "Se otorgará: ."
+          ],
+          "restriction": [],
+          "protection": [
+            "amparado",
+            "Aplica",
+            "Aplica"
+          ]
+        }
       ]
     }
-  ]
-}
-    ],
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-}
-  
