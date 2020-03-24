@@ -1,120 +1,136 @@
 {
-  "quotation": [
-    {
-      "folio": 221,
-      "quotation_key": "KNTGY6LYPI4XCUTQPIYE2S2FNZTUW3LMK5MVM2KXJVZDQTCFIJYXIMKLOFWEYK2SIRTT2%3D%3D%3D",
-      "coverages": [
+  "quotation": {
+    "data": {
+      "quotation": [
         {
-          "id": 27,
-          "description": "Hospitalización",
-          "detail": [
-            "Se pagará la suma asegurada si el Asegurado."
+          "folio": 221,
+          "quotation_key": "KNTGY6LYPI4XCUTQPIYE2S2FNZTUW3LMK5MVM2KXJVZDQTCFIJYXIMKLOFWEYK2SIRTT2%3D%3D%3D",
+          "coverages": [
+            {
+              "id": 27,
+              "description": "Hospitalización",
+              "detail": [
+                "Se pagará la suma asegurada si el Asegurado."
+              ],
+              "restriction": [
+                "Esta cobertura no cubre Hospitalización derivada de: "
+              ],
+              "protection": [
+                "$40,000",
+                "$30,000",
+                "$20,000"
+              ]
+            }
           ],
-          "restriction": [
-            "Esta cobertura no cubre Hospitalización derivada de: "
+          "prices": [
+            {
+              "id": 13,
+              "title": "Básico",
+              "prices": {
+                "1": "261.00",
+                "2": "783.00",
+                "3": "1566.00",
+                "4": "3132.00"
+              },
+              "secondaryDescription": {
+                "1": "MXN/Mensual",
+                "2": "MXN/Trimestral",
+                "3": "MXN/Semestral",
+                "4": "MXN/Anual"
+              }
+            },
+            {
+              "id": 14,
+              "title": "Preferente",
+              "prices": {
+                "1": "368.00",
+                "2": "1104.00",
+                "3": "2208.00",
+                "4": "4416.00"
+              },
+              "secondaryDescription": {
+                "1": "MXN/Mensual",
+                "2": "MXN/Trimestral",
+                "3": "MXN/Semestral",
+                "4": "MXN/Anual"
+              }
+            },
+            {
+              "id": 15,
+              "title": "Premier",
+              "prices": {
+                "1": "647.00",
+                "2": "1941.00",
+                "3": "3882.00",
+                "4": "7764.00"
+              },
+              "secondaryDescription": {
+                "1": "MXN/Mensual",
+                "2": "MXN/Trimestral",
+                "3": "MXN/Semestral",
+                "4": "MXN/Anual"
+              }
+            }
           ],
-          "protection": [
-            "$40,000",
-            "$30,000",
-            "$20,000"
-          ]
-        }
-      ],
-      "prices": [
-        {
-          "id": 13,
-          "title": "Básico",
-          "prices": {
-            "1": "261.00",
-            "2": "783.00",
-            "3": "1566.00",
-            "4": "3132.00"
-          },
-          "secondaryDescription": {
-            "1": "MXN/Mensual",
-            "2": "MXN/Trimestral",
-            "3": "MXN/Semestral",
-            "4": "MXN/Anual"
-          }
-        },
-        {
-          "id": 14,
-          "title": "Preferente",
-          "prices": {
-            "1": "368.00",
-            "2": "1104.00",
-            "3": "2208.00",
-            "4": "4416.00"
-          },
-          "secondaryDescription": {
-            "1": "MXN/Mensual",
-            "2": "MXN/Trimestral",
-            "3": "MXN/Semestral",
-            "4": "MXN/Anual"
-          }
-        },
-        {
-          "id": 15,
-          "title": "Premier",
-          "prices": {
-            "1": "647.00",
-            "2": "1941.00",
-            "3": "3882.00",
-            "4": "7764.00"
-          },
-          "secondaryDescription": {
-            "1": "MXN/Mensual",
-            "2": "MXN/Trimestral",
-            "3": "MXN/Semestral",
-            "4": "MXN/Anual"
-          }
-        }
-      ],
-      "accompaniments": [
-        {
-          "id": 1,
-          "description": "Orientación médica de prevención telefónica",
-          "detail": [
-            "Se otorgará: ."
-          ],
-          "restriction": [],
-          "protection": [
-            "amparado",
-            "Aplica",
-            "Aplica"
+          "accompaniments": [
+            {
+              "id": 1,
+              "description": "Orientación médica de prevención telefónica",
+              "detail": [
+                "Se otorgará: ."
+              ],
+              "restriction": [],
+              "protection": [
+                "amparado",
+                "Aplica",
+                "Aplica"
+              ]
+            }
           ]
         }
       ]
     }
-  ],
-  "frequencies": [
-    {
-      "id": 1,
-      "description": "Mensual"
-    },
-    {
-      "id": 4,
-      "description": "Anual"
+  },
+  "frequencies": {
+    "data": {
+      "frequencies": [
+        {
+          "id": 1,
+          "description": "Mensual"
+        },
+        {
+          "id": 4,
+          "description": "Anual"
+        }
+      ]
     }
-  ],
-  "subscriptions": [
-    { 
-      "id": 1, 
-      "description": "Individual"
-    },
-    { 
-      "id": 2,
-      "description": "Familiar"
+  },
+  "subscriptions": {
+    "data": {
+      "subscriptions": [
+        {
+          "id": 1,
+          "description": "Individual"
+        },
+        {
+          "id": 2,
+          "description": "Familiar"
+        }
+      ]
     }
-  ],
-  "levels": [
-    { 
-      "id": 1,
-      "description": "Standard"
-    },
-    { 
-      "id": 2,
-      "description": "Plus"
+  },
+  "levels": {
+    "data": {
+      "levels": [
+        {
+          "id": 1,
+          "description": "Standard"
+        },
+        {
+          "id": 2,
+          "description": "Plus"
+        }
+      ]
     }
-  ]
+  }
 }
