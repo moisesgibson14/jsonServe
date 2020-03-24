@@ -8,10 +8,10 @@
       "id": 27,
       "description": "Hospitalización",
       "detail": [
-        "Se pagará la suma asegurada si el Asegurado, requiere hospitalización por un lapso de tiempo igual o mayor a 72hrs de forma continua e ininterrumpida."
+        "Se pagará la suma asegurada si el Asegurado."
       ],
       "restriction": [
-        "Esta cobertura no cubre Hospitalización derivada de: a) Padecimientos Preexistentes, en los términos definidos. b) Embarazo, parto y/o aborto, excepto si este último fue ocasionado por un Accidente. c) Lesiones o enfermedades que surjan de intento de suicidio. Entre otras , para conocer más detalle consultar las condiciones generales."
+        "Esta cobertura no cubre Hospitalización derivada de: "
       ],
       "protection": [
         "$40,000",
@@ -23,10 +23,10 @@
       "id": 28,
       "description": "Cirugía",
       "detail": [
-        "Se pagará si a consecuencia de un Accidente o Enfermedad, el Asegurado requiriere de una intervención quirúrgica."
+        "Se pagará si a consecuencia de "
       ],
       "restriction": [
-        "Intervenciones quirúrgicas derivadas de padecimientos preexistentes, cirugías por tratamientos con fines preventivos. Intervenciones quirúrgicas con fines estéticos, Intervenciones quirúrgicas relacionadas con la maternidad. Entre otras , para conocer más detalle consultar las condiciones generales."
+        "Intervenciones quirúrgicas "
       ],
       "protection": [
         "$2,0000",
@@ -38,10 +38,10 @@
       "id": 29,
       "description": "Fractura de huesos",
       "detail": [
-        "Si existen dos o más fracturas se pagará una indemnización por cada hueso fracturado. Pago máximo: 12 huesos por evento."
+        "Si existen dos o más fracturas se pagará."
       ],
       "restriction": [
-        "Fracturas por padecimientos diagnosticados previo a contrarar la póliza como lo puede ser la Osteogénesis imperfecta, Osteoporosis,  Artritis reumatoide . Fracturas ocurridas antes de contratación del producto;ocurridas a causa de intento de suicidio. Entre otras , para conocer más detalle consultar las condiciones generales. En caso de que en un mismo evento existan fracturas de varias falanges de un mismo dedo, todas ellas se considerarán como una sola fractura."
+        "Fracturas por padecimientos diagnosticados ."
       ],
       "protection": [
         "$2,000",
@@ -53,10 +53,10 @@
       "id": 30,
       "description": "Cáncer",
       "detail": [
-        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+        "Si al Asegurado se le diagnostica la primera ocurrencia de una "
       ],
       "restriction": [
-        "Cáncer preexistente en cualquier órgano interno y/o parte del cuerpo. Cáncer de la piel, a excepción de melanomas malignos. Entre otras , para conocer más detalle consultar las condiciones generales."
+        "Cáncer preexistente en cualquier órgano interno y/o parte del cuerpo.."
       ],
       "protection": [
         "$100,000",
@@ -68,10 +68,10 @@
       "id": 31,
       "description": "Infarto al miocardio",
       "detail": [
-        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+        "Si al Asegurado se le diagnostica la primera ocurrencia "
       ],
       "restriction": [
-        "Insuficiencia cardiaca, insuficiencia de cualquier válvula cardiaca , dolor torácico no cardiaco, angina estable e inestable,arritmias cardiacas, fibrilación. Entre otras , para conocer más detalle consultar las condiciones generales."
+        "Insuficiencia cardiaca, insuficiencia de cualquier válvula cardiaca ,."
       ],
       "protection": [
         "$100,000",
@@ -83,10 +83,10 @@
       "id": 32,
       "description": "Accidente cerebrovascular",
       "detail": [
-        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+        "Si al Asegurado se le diagnostica la primera "
       ],
       "restriction": [
-        "Ataques Isquémicos Transitorios (AIT). Vasculitis cerebral. Entre otras , para conocer más detalle consultar las condiciones generales."
+        "Ataques Isquémicos Transitorios."
       ],
       "protection": [
         "$100,000",
@@ -98,10 +98,10 @@
       "id": 33,
       "description": "Esclerosis Múltiple",
       "detail": [
-        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+        "Si al Asegurado se le diagnostica la primera "
       ],
       "restriction": [
-        "Daño neurológico como Lupus Eritematoso Sistémico o infecciones por Virus de Inmunodeficiencia Humana."
+        "Daño neurológico como Lupus Eritematoso ."
       ],
       "protection": [
         "$100,000",
@@ -113,7 +113,7 @@
       "id": 34,
       "description": "Seguro saldo por fallecimiento del Titular",
       "detail": [
-        "En caso de fallecimiento del titular por o debido a alguna enfermedad grave amparada , la familia podrá seguir contando con la cobertura y disfrutando de los acompañamientos hasta el fin de la vigencia de la misma sin pago de prima alguna. B5"
+        "En caso de fallecimiento del titular por o debido a alguna enfermedad grave amparada "
       ],
       "restriction": [
         "Fallecimiento que no haya sido causado por alguna de las Enfermedades Graves amparadas por la póliza"
@@ -128,7 +128,7 @@
       "id": 35,
       "description": "Ayuda para Gastos Funerarios",
       "detail": [
-        "En caso del fallecimiento de algún integrante de la familia asegurada se pagará a los Beneficiarios , la Suma Asegurada para solventar los gastos funerarios. Además quedará vigente la póliza para los demás integrantes de la familia ya que cada integrante cuenta con una suma asegurada independiente."
+        "En caso del fallecimiento de algún integrante."
       ],
       "restriction": [
         "Suicidio"
@@ -195,7 +195,7 @@
       "id": 1,
       "description": "Orientación médica de prevención telefónica",
       "detail": [
-        "Se otorgará: • Asesoría médica telefónica para cualquier enfermedad.  • Referencias médicas e información general sobre el uso de medicamentos, y medidas que debe tomar sobre enfermedades no graves, síntomas y molestias."
+        "Se otorgará: ."
       ],
       "restriction": [],
       "protection": [
@@ -221,7 +221,7 @@
       "id": 3,
       "description": "Asesoría  psicológica telefónica",
       "detail": [
-        "Se le brindarán asesorías respecto a cómo afrontar problemas o transtornos generados por ansiedad, estrés o depresión. En caso de ser necesario lo canalizarán para su evaluación y seguimiento presencial con un costo preferencial."
+        "Se le brindarán asesorías ."
       ],
       "restriction": [],
       "protection": [
@@ -234,7 +234,7 @@
       "id": 4,
       "description": "Asesoría nutricional telefónica",
       "detail": [
-        "Brindará consejos para las mejores prácticas del consumo de alimentos y la combinación de estos con el objetivo de mejorar o preservar la salud."
+        "Brindará consejos para las mejores."
       ],
       "restriction": [],
       "protection": [
@@ -247,7 +247,7 @@
       "id": 5,
       "description": "Dental básico",
       "detail": [
-        "1 (una) consulta dental  y limpieza sin costo por cada vigencia de la póliza.  Costos preferenciales en todos los tratamientos odontológicos que requiera el Usuario. Sin límite de eventos"
+        "1 (una) consulta dental  y "
       ],
       "restriction": [],
       "protection": [
@@ -260,7 +260,7 @@
       "id": 6,
       "description": "Médico a domicilio",
       "detail": [
-        "Se cordinará el envío de un médico general al domicilio del usuario . El costo de la visita la pagará a precio preferencial directamente al Médico General que haya asistido."
+        "Se cordinará el envío de un médico general ."
       ],
       "restriction": [],
       "protection": [
@@ -273,7 +273,7 @@
       "id": 7,
       "description": "Análisis clínicos",
       "detail": [
-        "Se proporcionarán referencias con base a la red de laboratorios, con la finalidad de que el Usuario pueda seleccionar alguno para acudir a realizarse  el estudio de laboratorio que éste requiera.  ·       Plan individual: cubre sin costo 1 (una) química sanguínea al Usuario.  ·       Plan familiar: cubre sin costo 2 (dos) químicas sanguíneas aplicables para cualquiera de los Usuarios de la póliza familiar. "
+        "Se proporcionarán referencias ."
       ],
       "restriction": [],
       "protection": [
@@ -286,7 +286,7 @@
       "id": 8,
       "description": "Servicio de gastos funerarios",
       "detail": [
-        "En caso de muerte natural del titular de la póliza se otorgará al familiar y/o Representante que solicite este servicio de ssistencia: (i) atención y asesoría personalizada las 24 (veinticuatro) horas y (ii) gestoría y representación ante dependencias gubernamentales asi como un plan de servicio funerario."
+        "En caso de muerte natural del titular de la póliza se ."
       ],
       "restriction": [],
       "protection": [
@@ -299,7 +299,7 @@
       "id": 9,
       "description": "Orientación médica y seguimiento al tratamiento básica",
       "detail": [
-        "En caso de que el usuario solicite la indemnización de alguna cobertura , se le asignará a un Health Coach que brindará diversos servicios. Para mayor detalle consultar las condiciones generales."
+        "En caso de que el usuario solicite la indemnización de alguna cobertura ."
       ],
       "restriction": [],
       "protection": [
@@ -312,7 +312,7 @@
       "id": 10,
       "description": "Médico a domicilio( consultas incluidas)",
       "detail": [
-        "Envío de un Médico General al domicilio del Usuario. El Usuario no realizará ningún pago y recibirá al Médico General que haya elegido para el servicio por cada visita domiciliaria."
+        "Envío de un Médico General al domicilio del Usuario.."
       ],
       "restriction": [],
       "protection": [
@@ -325,7 +325,7 @@
       "id": 11,
       "description": "Orientación médica al tratamiento plus",
       "detail": [
-        "Además de la Orientación médica y seguimiento al tratamiento básica incluye contactos por medio de email proporcionando información relevante según la cobertura que se hubiera reclamado , Costos preferenciales en coaching integral personalizado (yoga, consultas médicas y psicológicas presenciales,  monitoreo digital)"
+        "Además de la Orientación médica y seguimiento al tratamiento básica incluye )"
       ],
       "restriction": [],
       "protection": [
@@ -338,7 +338,7 @@
       "id": 12,
       "description": "Médico a domicilio, reembolso de medicamentos y terapias",
       "detail": [
-        "Hasta 3 terapias sin costo cuando el Usuario solicite la atención de un fisioterapeuta. Las terapias seran coordinadas por el provedor y en la red que ésta posea."
+        "Hasta 3 terapias sin costo cuando el."
       ],
       "restriction": [],
       "protection": [
@@ -351,7 +351,7 @@
       "id": 13,
       "description": "Servicio de ambulancia Orientación médica al tratamiento plus",
       "detail": [
-        "En caso de Enfermedad o Accidente de los asegurados que pongan en peligro su vida se gestionará el traslado del Usuario al centro hospitalario más cercano.  -1 (un) servicio de ambulancia terrestre sin costo en caso de urgencia médica por cada vigencia de la póliza.  -En caso de requerir traslados adicionales, el Usuario deberá cubrir los gastos a costo preferencial. "
+        "En caso de Enfermedad o Accidente de los asegurados "
       ],
       "restriction": [],
       "protection": [
@@ -364,7 +364,7 @@
       "id": 14,
       "description": "Apoyo a medicamentos",
       "detail": [
-        "Cuando el Usuario solicite la visita de un médico general a domicilio y le sea prescrita medicación el usuario recibirá un apoyo de hasta $500. Dependiendo del plan contratado, tendrá acceso a  (1 ,2 o 3) visitas."
+        "Cuando el Usuario solicite la visita de un médico general a domicilio y."
       ],
       "restriction": [],
       "protection": [
