@@ -1,124 +1,454 @@
 {
     "quotation":[
-      {
-          "id":1,
-          "prices":  [
-              {
-                 "id": 7,
-                 "title": "Básico",
-                 "prices": {
-                    "1": "149.00",
-                    "2": "447.00"
-                 },
-                 "color": "#009dd6",
-                 "mainDescription": "$408.00*",
-                 "secondaryDescription": "MXN / Mensual",
-              },
-              {
-                 "id": 8,
-                 "title": "Preferente",
-                 "prices": {
-                    "1": "168.00",
-                    "2": "504.00"
-                 },
-                 "color": "#138468",
-                 "mainDescription": "$408.00*",
-                 "secondaryDescription": "MXN / Mensual",
-           
-              },
-              {
-                 "id": 9,
-                 "title": "Premium",
-                 "prices": {
-                    "1": "191.00",
-                    "2": "573.00"
-           
-                 },
-                 "color": "#f2609e",
-                 "mainDescription": "$408.00*",
-                 "secondaryDescription": "MXN / Mensual",
-           
-              }
-           ],
-           "coverages": [
-              {
-                "id": 16,
-                "description": "Hospitalización",
-                "detail": [
-                  "Días máximos de cobertura: 30 días",
-                  "Periodo de carencia o exclusión por enfermedad : 90 días",
-                  "Periodo de espera por enfermedad o accidente: 48 horas",
-                  "1 evento al año."
-                ],
-                "restriction": [
-                  "En caso de fallecimiento, no cubre suicidio o cualquier intento del mismo o mutilación voluntaria, aun cuando se cometa en estado de enajenación mental.",
-                  "Cualquier cirugía, incluyendo cirugía estética, realizada a voluntaddel asegurado o cirugías elegidas voluntariamente por el asegurado."
-                ],
-                "protection": [
-                  "$1,000",
-                  "$1,500",
-                  "$2,000"
-                ]
-              },
-              {
-                "id": 17,
-                "description": "Cirugia",
-                "detail": [
-                  "Cobertura adicional a la indemnización diaria",
-                  "Periodo de espera: 72 horas",
-                  "1 evento al año"
-                ],
-                "restriction": [
-                  "En caso de fallecimiento, no cubre suicidio o cualquier intento del mismo o mutilación voluntaria, aun cuando se cometa en estado de enajenación mental.",
-                  "Cualquier cirugía, incluyendo cirugía estética, realizada a voluntad del asegurado o cirugías elegidas voluntariamente por el asegurado"
-                ],
-                "protection": [
-                  "$2,500",
-                  "$5,000",
-                  "$7,500"
-                ]
-              }
-            ],
-            "accompaniments": [
-              {
-                "id": 16,
-                "description": "Hospitalización",
-                "detail": [
-                  "Días máximos de cobertura: 30 días",
-                  "Periodo de carencia o exclusión por enfermedad : 90 días",
-                  "Periodo de espera por enfermedad o accidente: 48 horas",
-                  "1 evento al año."
-                ],
-                "restriction": [
-                  "En caso de fallecimiento, no cubre suicidio o cualquier intento del mismo o mutilación voluntaria, aun cuando se cometa en estado de enajenación mental.",
-                  "Cualquier cirugía, incluyendo cirugía estética, realizada a voluntaddel asegurado o cirugías elegidas voluntariamente por el asegurado."
-                ],
-                "protection": [
-                  "$1,000",
-                  "$1,500",
-                  "$2,000"
-                ]
-              },
-              {
-                "id": 17,
-                "description": "Cirugia",
-                "detail": [
-                  "Cobertura adicional a la indemnización diaria",
-                  "Periodo de espera: 72 horas",
-                  "1 evento al año"
-                ],
-                "restriction": [
-                  "En caso de fallecimiento, no cubre suicidio o cualquier intento del mismo o mutilación voluntaria, aun cuando se cometa en estado de enajenación mental.",
-                  "Cualquier cirugía, incluyendo cirugía estética, realizada a voluntad del asegurado o cirugías elegidas voluntariamente por el asegurado"
-                ],
-                "protection": [
-                  "$2,500",
-                  "$5,000",
-                  "$7,500"
-                ]
-              }
-            ]
+        {
+  "folio": 221,
+  "quotation_key": "KNTGY6LYPI4XCUTQPIYE2S2FNZTUW3LMK5MVM2KXJVZDQTCFIJYXIMKLOFWEYK2SIRTT2%3D%3D%3D",
+  "coverages": [
+    {
+      "id": 27,
+      "description": "Hospitalización",
+      "detail": [
+        "Se pagará la suma asegurada si el Asegurado, requiere hospitalización por un lapso de tiempo igual o mayor a 72hrs de forma continua e ininterrumpida."
+      ],
+      "restriction": [
+        "Esta cobertura no cubre Hospitalización derivada de: a) Padecimientos Preexistentes, en los términos definidos. b) Embarazo, parto y/o aborto, excepto si este último fue ocasionado por un Accidente. c) Lesiones o enfermedades que surjan de intento de suicidio. Entre otras , para conocer más detalle consultar las condiciones generales."
+      ],
+      "protection": [
+        "$40,000",
+        "$30,000",
+        "$20,000"
+      ]
+    },
+    {
+      "id": 28,
+      "description": "Cirugía",
+      "detail": [
+        "Se pagará si a consecuencia de un Accidente o Enfermedad, el Asegurado requiriere de una intervención quirúrgica."
+      ],
+      "restriction": [
+        "Intervenciones quirúrgicas derivadas de padecimientos preexistentes, cirugías por tratamientos con fines preventivos. Intervenciones quirúrgicas con fines estéticos, Intervenciones quirúrgicas relacionadas con la maternidad. Entre otras , para conocer más detalle consultar las condiciones generales."
+      ],
+      "protection": [
+        "$2,0000",
+        "$15,000",
+        "$10,000"
+      ]
+    },
+    {
+      "id": 29,
+      "description": "Fractura de huesos",
+      "detail": [
+        "Si existen dos o más fracturas se pagará una indemnización por cada hueso fracturado. Pago máximo: 12 huesos por evento."
+      ],
+      "restriction": [
+        "Fracturas por padecimientos diagnosticados previo a contrarar la póliza como lo puede ser la Osteogénesis imperfecta, Osteoporosis,  Artritis reumatoide . Fracturas ocurridas antes de contratación del producto;ocurridas a causa de intento de suicidio. Entre otras , para conocer más detalle consultar las condiciones generales. En caso de que en un mismo evento existan fracturas de varias falanges de un mismo dedo, todas ellas se considerarán como una sola fractura."
+      ],
+      "protection": [
+        "$2,000",
+        "$1,500",
+        "$1,000"
+      ]
+    },
+    {
+      "id": 30,
+      "description": "Cáncer",
+      "detail": [
+        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+      ],
+      "restriction": [
+        "Cáncer preexistente en cualquier órgano interno y/o parte del cuerpo. Cáncer de la piel, a excepción de melanomas malignos. Entre otras , para conocer más detalle consultar las condiciones generales."
+      ],
+      "protection": [
+        "$100,000",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 31,
+      "description": "Infarto al miocardio",
+      "detail": [
+        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+      ],
+      "restriction": [
+        "Insuficiencia cardiaca, insuficiencia de cualquier válvula cardiaca , dolor torácico no cardiaco, angina estable e inestable,arritmias cardiacas, fibrilación. Entre otras , para conocer más detalle consultar las condiciones generales."
+      ],
+      "protection": [
+        "$100,000",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 32,
+      "description": "Accidente cerebrovascular",
+      "detail": [
+        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+      ],
+      "restriction": [
+        "Ataques Isquémicos Transitorios (AIT). Vasculitis cerebral. Entre otras , para conocer más detalle consultar las condiciones generales."
+      ],
+      "protection": [
+        "$100,000",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 33,
+      "description": "Esclerosis Múltiple",
+      "detail": [
+        "Si al Asegurado se le diagnostica la primera ocurrencia de una Enfermedad Grave tendrá derecho a recibir en una sola exhibición la Suma Asegurada contratada"
+      ],
+      "restriction": [
+        "Daño neurológico como Lupus Eritematoso Sistémico o infecciones por Virus de Inmunodeficiencia Humana."
+      ],
+      "protection": [
+        "$100,000",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 34,
+      "description": "Seguro saldo por fallecimiento del Titular",
+      "detail": [
+        "En caso de fallecimiento del titular por o debido a alguna enfermedad grave amparada , la familia podrá seguir contando con la cobertura y disfrutando de los acompañamientos hasta el fin de la vigencia de la misma sin pago de prima alguna. B5"
+      ],
+      "restriction": [
+        "Fallecimiento que no haya sido causado por alguna de las Enfermedades Graves amparadas por la póliza"
+      ],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 35,
+      "description": "Ayuda para Gastos Funerarios",
+      "detail": [
+        "En caso del fallecimiento de algún integrante de la familia asegurada se pagará a los Beneficiarios , la Suma Asegurada para solventar los gastos funerarios. Además quedará vigente la póliza para los demás integrantes de la familia ya que cada integrante cuenta con una suma asegurada independiente."
+      ],
+      "restriction": [
+        "Suicidio"
+      ],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    }
+  ],
+  "prices": [
+    {
+      "id": 13,
+      "title": "Básico",
+      "prices": {
+        "1": "261.00",
+        "2": "783.00",
+        "3": "1566.00",
+        "4": "3132.00"
+      },
+      "secondaryDescription": {
+        "1": "MXN/Mensual",
+        "2": "MXN/Trimestral",
+        "3": "MXN/Semestral",
+        "4": "MXN/Anual"
       }
+    },
+    {
+      "id": 14,
+      "title": "Preferente",
+      "prices": {
+        "1": "368.00",
+        "2": "1104.00",
+        "3": "2208.00",
+        "4": "4416.00"
+      },
+      "secondaryDescription": {
+        "1": "MXN/Mensual",
+        "2": "MXN/Trimestral",
+        "3": "MXN/Semestral",
+        "4": "MXN/Anual"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Premier",
+      "prices": {
+        "1": "647.00",
+        "2": "1941.00",
+        "3": "3882.00",
+        "4": "7764.00"
+      },
+      "secondaryDescription": {
+        "1": "MXN/Mensual",
+        "2": "MXN/Trimestral",
+        "3": "MXN/Semestral",
+        "4": "MXN/Anual"
+      }
+    }
+  ],
+  "accompaniments": [
+    {
+      "id": 1,
+      "description": "Orientación médica de prevención telefónica",
+      "detail": [
+        "Se otorgará: • Asesoría médica telefónica para cualquier enfermedad.  • Referencias médicas e información general sobre el uso de medicamentos, y medidas que debe tomar sobre enfermedades no graves, síntomas y molestias."
+      ],
+      "restriction": [],
+      "protection": [
+        "amparado",
+        "Aplica",
+        "Aplica"
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Costos preferenciales en servicios médicos",
+      "detail": [
+        "Descuentos a través de la red médica y hospitalaria en: Médicos Especialistas, Hospitales y Laboratorios por ubicación geográfica."
+      ],
+      "restriction": [],
+      "protection": [
+        "costos preferenciales ",
+        "costos preferenciales ",
+        "Costos preferenciales"
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Asesoría  psicológica telefónica",
+      "detail": [
+        "Se le brindarán asesorías respecto a cómo afrontar problemas o transtornos generados por ansiedad, estrés o depresión. En caso de ser necesario lo canalizarán para su evaluación y seguimiento presencial con un costo preferencial."
+      ],
+      "restriction": [],
+      "protection": [
+        "Aplica",
+        "Aplica",
+        "Aplica"
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Asesoría nutricional telefónica",
+      "detail": [
+        "Brindará consejos para las mejores prácticas del consumo de alimentos y la combinación de estos con el objetivo de mejorar o preservar la salud."
+      ],
+      "restriction": [],
+      "protection": [
+        "Aplica",
+        "Aplica",
+        "Aplica"
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Dental básico",
+      "detail": [
+        "1 (una) consulta dental  y limpieza sin costo por cada vigencia de la póliza.  Costos preferenciales en todos los tratamientos odontológicos que requiera el Usuario. Sin límite de eventos"
+      ],
+      "restriction": [],
+      "protection": [
+        "Aplica",
+        "Aplica",
+        "Aplica"
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Médico a domicilio",
+      "detail": [
+        "Se cordinará el envío de un médico general al domicilio del usuario . El costo de la visita la pagará a precio preferencial directamente al Médico General que haya asistido."
+      ],
+      "restriction": [],
+      "protection": [
+        "costos preferenciales ",
+        "costos preferenciales ",
+        "costos preferenciales "
+      ]
+    },
+    {
+      "id": 7,
+      "description": "Análisis clínicos",
+      "detail": [
+        "Se proporcionarán referencias con base a la red de laboratorios, con la finalidad de que el Usuario pueda seleccionar alguno para acudir a realizarse  el estudio de laboratorio que éste requiera.  ·       Plan individual: cubre sin costo 1 (una) química sanguínea al Usuario.  ·       Plan familiar: cubre sin costo 2 (dos) químicas sanguíneas aplicables para cualquiera de los Usuarios de la póliza familiar. "
+      ],
+      "restriction": [],
+      "protection": [
+        "química de 6 elementos",
+        "química de 6 elementos",
+        "química de 6 elementos"
+      ]
+    },
+    {
+      "id": 8,
+      "description": "Servicio de gastos funerarios",
+      "detail": [
+        "En caso de muerte natural del titular de la póliza se otorgará al familiar y/o Representante que solicite este servicio de ssistencia: (i) atención y asesoría personalizada las 24 (veinticuatro) horas y (ii) gestoría y representación ante dependencias gubernamentales asi como un plan de servicio funerario."
+      ],
+      "restriction": [],
+      "protection": [
+        "Aplica",
+        "Aplica",
+        "Aplica"
+      ]
+    },
+    {
+      "id": 9,
+      "description": "Orientación médica y seguimiento al tratamiento básica",
+      "detail": [
+        "En caso de que el usuario solicite la indemnización de alguna cobertura , se le asignará a un Health Coach que brindará diversos servicios. Para mayor detalle consultar las condiciones generales."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 10,
+      "description": "Médico a domicilio( consultas incluidas)",
+      "detail": [
+        "Envío de un Médico General al domicilio del Usuario. El Usuario no realizará ningún pago y recibirá al Médico General que haya elegido para el servicio por cada visita domiciliaria."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 11,
+      "description": "Orientación médica al tratamiento plus",
+      "detail": [
+        "Además de la Orientación médica y seguimiento al tratamiento básica incluye contactos por medio de email proporcionando información relevante según la cobertura que se hubiera reclamado , Costos preferenciales en coaching integral personalizado (yoga, consultas médicas y psicológicas presenciales,  monitoreo digital)"
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 12,
+      "description": "Médico a domicilio, reembolso de medicamentos y terapias",
+      "detail": [
+        "Hasta 3 terapias sin costo cuando el Usuario solicite la atención de un fisioterapeuta. Las terapias seran coordinadas por el provedor y en la red que ésta posea."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 13,
+      "description": "Servicio de ambulancia Orientación médica al tratamiento plus",
+      "detail": [
+        "En caso de Enfermedad o Accidente de los asegurados que pongan en peligro su vida se gestionará el traslado del Usuario al centro hospitalario más cercano.  -1 (un) servicio de ambulancia terrestre sin costo en caso de urgencia médica por cada vigencia de la póliza.  -En caso de requerir traslados adicionales, el Usuario deberá cubrir los gastos a costo preferencial. "
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 14,
+      "description": "Apoyo a medicamentos",
+      "detail": [
+        "Cuando el Usuario solicite la visita de un médico general a domicilio y le sea prescrita medicación el usuario recibirá un apoyo de hasta $500. Dependiendo del plan contratado, tendrá acceso a  (1 ,2 o 3) visitas."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 15,
+      "description": "Enfermera",
+      "detail": [
+        "6 días de enfermera al año. El usuario en caso de tener una enfermedad o accidente puede solicitar el servicio de enfermería. Además, se proveerán costos preferenciales en cuidados especiales en casa y servicios de enfermería. En el plan familiar el beneficio es sólo para dos asegurados."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 16,
+      "description": "Cuidados especiales en casa y servicios de enfermeria",
+      "detail": [],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 17,
+      "description": "Tratamiento integral para tiroides",
+      "detail": [
+        "Costos preferenciales y descuentos en consultas, yoga, videos, que apoyan al tratamiento de tiroides."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 18,
+      "description": "Urgencia dental",
+      "detail": [
+        "Incluye sin costo: servicios como consultas de urgencia , limpiezas dentales, resinas , endodoncia y cirugías. En la red de la asistencia."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 19,
+      "description": "Coaching integral personalizado",
+      "detail": [],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    },
+    {
+      "id": 20,
+      "description": "Monitoreo de paciente en casa",
+      "detail": [
+        "Costos preferenciales  en la evaluación de pacientes, traslados, venta/renta de equipo médico y mobiliario y seguimiento de insumos) . Descuentos que van del 15 al 20%."
+      ],
+      "restriction": [],
+      "protection": [
+        "No aplica",
+        "No aplica",
+        "No aplica"
+      ]
+    }
+  ]
+}
     ],
     "posts": [
       { "id": 1, "title": "json-server", "author": "typicode" }
